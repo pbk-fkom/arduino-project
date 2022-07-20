@@ -2,10 +2,10 @@
 ### Project Absensi KTA Menggunakan Arduino 
 
 >Requirement
-1. Arduino Uno
-2. RFID
-3. USB HIELD
-4. SCANNER USB
+1. Arduino Uno (Ada)
+2. RFID (Rp.17.000)
+3. USB HOST SHIELD (Rp.100.000)
+4. QRCODE SCANNER (Rp.570.000)
 
 ## Open Donasi !
 
