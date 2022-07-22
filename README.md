@@ -1,11 +1,11 @@
 
-### Project Absensi KTA Menggunakan Arduino 
-
+### Project Absensi KTA Menggunakan Arduino RFID
+[skema](https://github.com/pbk-fkom/arduino-project/blob/main/skema.jpg)
 >Requirement
-1. Arduino Uno (Ada)
-2. RFID (Rp.17.000)
-3. USB HOST SHIELD (Rp.100.000)
-4. QRCODE SCANNER (Rp.570.000)
+1. Arduino Uno
+2. Modul RFID RC522  
+3. RFID TAG Mifare
+4. Kabel Jumper 
 
 ## Open Donasi !
 
