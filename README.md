@@ -1,6 +1,6 @@
 
 ### Project Absensi KTA Menggunakan Arduino RFID
-[skema](https://github.com/pbk-fkom/arduino-project/blob/main/skema.jpg)
+![skema](https://github.com/pbk-fkom/arduino-project/blob/main/skema.jpg)
 >Requirement
 1. Arduino Uno
 2. Modul RFID RC522  
